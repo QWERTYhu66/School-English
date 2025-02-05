@@ -72,15 +72,15 @@ p {
     background: linear-gradient(45deg, #3498db, #2980b9);
     color: #ffffff;
     border: none;
-    padding: 15px 30px;
-    font-size: 1.3rem;
+    padding: 150px 300px;
+    font-size: 2.3rem;
     font-weight: bold;
-    border-radius: 50px;
+    border-radius: 500px;
     text-transform: uppercase;
     transition: all 0.3s ease-in-out;
     display: block;
     text-align: center;
-    margin: 25px auto;
+    margin: 250px auto;
 }
 
 .btn-primary:hover {
