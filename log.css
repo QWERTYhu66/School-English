@@ -75,7 +75,7 @@ p {
     padding: 30px 60px;
     font-size: 2.3rem;
     font-weight: bold;
-    border-radius: 100px;
+    border-radius: 20px;
     text-transform: uppercase;
     transition: all 0.3s ease-in-out;
     display: block;
