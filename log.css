@@ -81,6 +81,7 @@ p {
     display: block;
     text-align: center;
     margin: 50px auto;
+    text-decoration: none;
 }
 
 .btn-primary:hover {
@@ -102,6 +103,7 @@ p {
     display: block;
     text-align: left;
     margin: 25px auto;
+    text-decoration: none;
 }
 
 .home-button:hover {
