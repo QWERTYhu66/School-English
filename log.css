@@ -74,15 +74,16 @@ p {
     background: linear-gradient(45deg, #3498db, #2980b9);
     color: #ffffff;
     border: none;
-    padding: 2%;
-    font-size: 280%;
+    padding: 15px;
+    font-size: 3.8rem;
     font-weight: bold;
-    border-radius: 2%;
+    border-radius: 15px;
     text-transform: uppercase;
     transition: all 0.3s ease-in-out;
     display: block;
     text-align: center;
-    margin: 4% auto;
+    margin-top: 20px;
+    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.6);
     text-decoration: none;
 }
 
