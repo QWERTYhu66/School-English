@@ -70,6 +70,7 @@ p {
 }
 
 .btn-primary {
+    font-family: "Rouge Script", cursive;
     max-width: 90%;
     background: linear-gradient(45deg, #3498db, #2980b9);
     color: #ffffff;
@@ -93,19 +94,20 @@ p {
 }
 
 .home-button {
-    max-width: 90%;
+    font-family: "Rouge Script", cursive;
+    max-width: 45%;
     background: linear-gradient(45deg, #3498db, #2980b9);
     color: #ffffff;
     border: none;
-    padding: 2%;
+    padding: 1%;
     font-size: 280%;
     font-weight: bold;
-    border-radius: 2%;
+    border-radius: 1%;
     text-transform: uppercase;
     transition: all 0.3s ease-in-out;
     display: block;
     text-align: center;
-    margin: 4% auto;
+    margin: 2% auto;
     text-decoration: none;
 }
 
